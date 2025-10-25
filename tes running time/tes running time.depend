@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1761308655 source:d:\semester 3\analisis dan kopleksitas algoritma\tes running time\main.cpp
+	<iostream>
+	<chrono>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
